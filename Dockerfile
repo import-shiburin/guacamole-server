@@ -175,6 +175,9 @@ RUN apk add --no-cache                \
         terminus-font                 \
         ttf-dejavu                    \
         ttf-liberation                \
+        font-noto                     \
+        font-noto-cjk                 \
+        font-noto-extra               \
         util-linux-login && \
     xargs apk add --no-cache < ${PREFIX_DIR}/DEPENDENCIES
 
