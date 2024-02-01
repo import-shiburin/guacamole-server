@@ -37,7 +37,7 @@
 /**
  * The name of the font to use for the terminal if no name is specified.
  */
-#define GUAC_TERMINAL_DEFAULT_FONT_NAME "monospace"
+#define GUAC_TERMINAL_DEFAULT_FONT_NAME "Noto Sans Mono"
 
 /**
  * The size of the font to use for the terminal if no font size is specified,
